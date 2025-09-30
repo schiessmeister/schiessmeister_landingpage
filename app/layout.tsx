@@ -12,7 +12,6 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 export const metadata: Metadata = {
   title: "Schiessmeister - Digitale Wettkampfauswertung",
   description: "Die smarte Lösung für Schützenvereine und ihre statischen Bewerbe. Ohne digitales Zielsystem!",
-  generator: "v0.app",
   icons: {
     icon: "/favicon.svg",
   },
